@@ -118,11 +118,11 @@ public class Game {
 						System.out.println(mypet.getName()+" needs a clean");
 					}
 					
-					System.out.println("Your pet has a hunger of " + mypet.getInfo(1));
-					System.out.println("Your pet has a boredom of " + mypet.getInfo(2));
-					System.out.println("Your pet has a tiredness of " + mypet.getInfo(3));
-					System.out.println("Your pet has a cleanliness of " + mypet.getInfo(4));
-					
+//					System.out.println("Your pet has a hunger of " + mypet.getInfo(1));
+//					System.out.println("Your pet has a boredom of " + mypet.getInfo(2));
+//					System.out.println("Your pet has a tiredness of " + mypet.getInfo(3));
+//					System.out.println("Your pet has a cleanliness of " + mypet.getInfo(4));
+//					
 				}
 				if (response.equals("2")){
 					int curCash = thisgame.getCash();
